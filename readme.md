@@ -1,5 +1,7 @@
 # 🐍 30 Days Of Python
 
+> Next up: Day 4
+
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](./readme.md)|
